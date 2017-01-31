@@ -1,5 +1,4 @@
-# react-super-zoom
-
----
+react-super-zoom
+===
 
 Coming soon.
